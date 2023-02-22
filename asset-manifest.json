@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cobareact/static/css/main.dd4b1b94.css",
+    "main.js": "/cobareact/static/js/main.22d99aca.js",
+    "index.html": "/cobareact/index.html",
+    "main.dd4b1b94.css.map": "/cobareact/static/css/main.dd4b1b94.css.map",
+    "main.22d99aca.js.map": "/cobareact/static/js/main.22d99aca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd4b1b94.css",
+    "static/js/main.22d99aca.js"
+  ]
+}
